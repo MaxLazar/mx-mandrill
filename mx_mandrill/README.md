@@ -1,7 +1,4 @@
 # MX Mandrill
-![MX Mandrill](resources/img/mx-mandrill.png)
-
-![MX Mandrill Demo](resources/img/mx-mandrill-demo.png)
 
 Mandrill mailer adapter for ExpressionEngine.
 
